@@ -2,6 +2,10 @@
 
 An API for parsing and stringifying the Minecraft server.properties file format
 
+## UNMAINTAINED
+
+This repository is unmaintained. See [strugee/node-minecraft-server-properties](https://github.com/strugee/node-minecraft-server-properties) for a maintained fork!
+
 ## Installation
 
     npm install --save minecraft-server-properties
